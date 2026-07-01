@@ -220,14 +220,14 @@ Balance : 6000
 
 Account Number : 102
 
-Account Holder : Rahul
+Account Holder : Ayesha
 
 Balance : 8000
 
 
 Account Number : 103
 
-Account Holder : Riya
+Account Holder : Shriya
 
 Balance : 10000
 
