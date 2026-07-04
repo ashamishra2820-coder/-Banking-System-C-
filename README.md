@@ -242,7 +242,7 @@ Thank You For Using Banking System
 
 ## 🎥 Project Explanation Video
 
-(Add your video link here)
+(https://drive.google.com/file/d/1yDSu7hUPARGlWtEuOYLrTGUV4H8wyyE8/view?usp=drivesdk)
 
 
 
